@@ -14,3 +14,7 @@ ranlib MathLib.a
 ```bash
 g++ -Wall -o code test.cpp -L. MathLib.a
 ```
+* Run the executable file
+```bash
+./code
+```
